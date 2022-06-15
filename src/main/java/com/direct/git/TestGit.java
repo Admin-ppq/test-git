@@ -8,5 +8,6 @@ public class TestGit {
         System.out.println("test34 by push --------执行---");
         System.out.println("test-----------------push");
         System.out.println("test3 by push secode -----------");
+         System.out.println("test3 by push three --------rr---");
     }
 }
