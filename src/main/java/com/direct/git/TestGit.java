@@ -6,6 +6,7 @@ public class TestGit {
         System.out.println("test2---------------------");
         System.out.println("test3 by hot_fix commit -----------");
         System.out.println("test34 by push --------执行---");
+        System.out.println("test-----------------push");
         
     }
 }
